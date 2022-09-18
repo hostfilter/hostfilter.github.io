@@ -1,0 +1,12 @@
+{
+  "name": "webstackpage.github.io",
+  "version": "1.0.0",
+  "description": "Webstack网址导航\r ===\r ### Demo: [➡️ www.webstack.cc](https://webstack.cc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
